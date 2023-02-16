@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+    <link rel="stylesheet" href="css/site.css" />
+</head>
+<body>
+    <h1>Form</h1>
+    <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name..">
+
+        <label for="message">Message</label>
+        <input type="text" id="message" name="message" placeholder="Your message..">
+
+        <input type="submit" value="Submit">
+    </form>
+    <br />
+    <br />
+    <br />
+    <form action="javascript:void(0);" method="POST" onsubmit="processXML()">
+        <label for="message">XML Message</label>
+        <input type="text" id="xmlmessage" name="xmlmessage" placeholder="Your XML message..">
+
+        <input id="xmlbutton" type="submit" value="Submit">
+    </form>
+
+    <script src="js/site.js" asp-append-version="true"></script>
+    <div id="formList"></div>
+
+    <script type="text/javascript">
+        getItems();
+    </script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Sikkerhetsakademiet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Sikkerhetsakademiet.props",
+      "PackagePath": "build\\Sikkerhetsakademiet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Sikkerhetsakademiet.props",
+      "PackagePath": "buildMultiTargeting\\Sikkerhetsakademiet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Sikkerhetsakademiet.props",
+      "PackagePath": "buildTransitive\\Sikkerhetsakademiet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

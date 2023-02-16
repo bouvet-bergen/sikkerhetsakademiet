@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "qz7YC+3zFbPied2+eh+uJJzsbe86+JRVyj6/RoFO2yI=",
+  "Source": "Sikkerhetsakademiet",
+  "BasePath": "_content/Sikkerhetsakademiet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sikkerhetsakademiet\\wwwroot",
+      "Source": "Sikkerhetsakademiet",
+      "ContentRoot": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\",
+      "BasePath": "_content/Sikkerhetsakademiet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\css\\site.css",
+      "SourceId": "Sikkerhetsakademiet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\",
+      "BasePath": "_content/Sikkerhetsakademiet",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\js\\site.js",
+      "SourceId": "Sikkerhetsakademiet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Git\\Sikkerhetsakademiet\\Sikkerhetsakademiet\\wwwroot\\",
+      "BasePath": "_content/Sikkerhetsakademiet",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
